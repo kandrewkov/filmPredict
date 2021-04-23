@@ -85,7 +85,7 @@ const OffersList = () => {
   return (
     <div className={classes.root}>
       <Box m={1}>
-        <Typography variant="h2">Вам может понравится</Typography>
+        <Typography variant="h2">Вам может понравиться</Typography>
       </Box>
 
       <ul className={classes.list}>
